@@ -1,16 +1,12 @@
 ---
 - - Afghanistan
   - AF
-- - Aland Islands
-  - AX
 - - Albania
   - AL
 - - Algeria
   - DZ
 - - American Samoa
   - AS
-- - Andorra
-  - AD
 - - Angola
   - AO
 - - Anguilla
@@ -25,6 +21,8 @@
   - AM
 - - Aruba
   - AW
+- - Ashmore and Cartier Island
+  - AC
 - - Australia
   - AU
 - - Austria
@@ -57,18 +55,16 @@
   - BA
 - - Botswana
   - BW
-- - Bouvet Island
-  - BV
 - - Brazil
   - BR
-- - British Indian Ocean Territory
-  - IO
-- - Brunei Darussalam
+- - Brunei
   - BN
 - - Bulgaria
   - BG
 - - Burkina Faso
   - BF
+- - Burma
+  - BU
 - - Burundi
   - BI
 - - Cambodia
@@ -91,6 +87,8 @@
   - CN
 - - Christmas Island
   - CX
+- - Clipperton Island
+  - CP
 - - Cocos (Keeling) Islands
   - CC
 - - Colombia
@@ -105,7 +103,7 @@
   - CK
 - - Costa Rica
   - CR
-- - Cote D'ivoire
+- - Cote d'Ivoire
   - CI
 - - Croatia
   - HR
@@ -137,6 +135,8 @@
   - EE
 - - Ethiopia
   - ET
+- - Europa Island
+  - EI
 - - Falkland Islands (Malvinas)
   - FK
 - - Faroe Islands
@@ -151,12 +151,14 @@
   - GF
 - - French Polynesia
   - PF
-- - French Southern Territories
-  - TF
+- - French Southern and Antarctic Lands
+  - FS
 - - Gabon
   - GA
 - - Gambia
   - GM
+- - Gaza Strip
+  - GZ
 - - Georgia
   - GE
 - - Germany
@@ -165,6 +167,8 @@
   - GH
 - - Gibraltar
   - GI
+- - Glorioso Islands
+  - GO
 - - Greece
   - GR
 - - Greenland
@@ -187,7 +191,7 @@
   - GY
 - - Haiti
   - HT
-- - Heard Island and Mcdonald Islands
+- - Heard Island and McDonald Islands
   - HM
 - - Holy See (Vatican City State)
   - VA
@@ -195,6 +199,8 @@
   - HN
 - - Hong Kong
   - HK
+- - Howland Island
+  - HI
 - - Hungary
   - HU
 - - Iceland
@@ -203,7 +209,7 @@
   - IN
 - - Indonesia
   - ID
-- - Iran, Islamic Republic of
+- - Iran
   - IR
 - - Iraq
   - IQ
@@ -217,12 +223,20 @@
   - IT
 - - Jamaica
   - JM
+- - Jan Mayen
+  - SJ
 - - Japan
   - JP
+- - Jarvis Island
+  - JI
 - - Jersey
   - JE
+- - Johnston Atoll
+  - JA
 - - Jordan
   - JO
+- - Juan de Nova Island
+  - JN
 - - Kazakhstan
   - KZ
 - - Kenya
@@ -233,8 +247,6 @@
   - KP
 - - Korea, Republic of
   - KR
-- - Kosovo
-  - KV
 - - Kuwait
   - KW
 - - Kyrgyzstan
@@ -249,7 +261,7 @@
   - LS
 - - Liberia
   - LR
-- - Libyan Arab Jamahiriya
+- - Libya
   - LY
 - - Liechtenstein
   - LI
@@ -257,8 +269,8 @@
   - LT
 - - Luxembourg
   - LU
-- - Macao
-  - MO
+- - Macau
+  - MI
 - - Macedonia, the Former Yugoslav Republic of
   - MK
 - - Madagascar
@@ -287,22 +299,20 @@
   - MX
 - - Micronesia, Federated States of
   - FM
-- - Moldova, Republic of
+- - Midway Islands
+  - MX
+- - Moldova
   - MD
 - - Monaco
   - MC
 - - Mongolia
   - MN
-- - Montenegro
-  - ME
 - - Montserrat
   - MS
 - - Morocco
   - MA
 - - Mozambique
   - MZ
-- - Myanmar
-  - MM
 - - Namibia
   - NA
 - - Nauru
@@ -330,15 +340,13 @@
 - - Northern Mariana Islands
   - MP
 - - Norway
-  - 'NO'
+  - NO
 - - Oman
   - OM
 - - Pakistan
   - PK
 - - Palau
   - PW
-- - Palestinian Territory, Occupied
-  - PS
 - - Panama
   - PA
 - - Papua New Guinea
@@ -363,7 +371,7 @@
   - RE
 - - Romania
   - RO
-- - Russian Federation
+- - Russia
   - RU
 - - Rwanda
   - RW
@@ -385,10 +393,10 @@
   - ST
 - - Saudi Arabia
   - SA
+- - Scotland
+  - SX
 - - Senegal
   - SN
-- - Serbia
-  - RS
 - - Seychelles
   - SC
 - - Sierra Leone
@@ -409,13 +417,15 @@
   - GS
 - - Spain
   - ES
+- - Spratly Islands
+  - SP
 - - Sri Lanka
   - LK
 - - Sudan
   - SD
 - - Suriname
   - SR
-- - Svalbard and Jan Mayen
+- - Svalbard
   - SJ
 - - Swaziland
   - SZ
@@ -423,25 +433,25 @@
   - SE
 - - Switzerland
   - CH
-- - Syrian Arab Republic
+- - Syria
   - SY
-- - Taiwan, Province of China
+- - Taiwan
   - TW
 - - Tajikistan
   - TJ
-- - Tanzania, United Republic of
+- - Tanzania
   - TZ
 - - Thailand
   - TH
-- - Timor-Leste
-  - TL
-- - Togo
-  - TG
+- - Tobago
+  - TT
+- - Toga
+  - TA
 - - Tokelau
   - TK
 - - Tonga
   - TO
-- - Trinidad and Tobago
+- - Trinidad
   - TT
 - - Tunisia
   - TN
@@ -449,8 +459,6 @@
   - TR
 - - Turkmenistan
   - TM
-- - Turks and Caicos Islands
-  - TC
 - - Tuvalu
   - TV
 - - Uganda
@@ -463,8 +471,6 @@
   - GB
 - - United States
   - US
-- - United States Minor Outlying Islands
-  - UM
 - - Uruguay
   - UY
 - - Uzbekistan
@@ -475,12 +481,16 @@
   - VE
 - - Viet Nam
   - VN
+- - Virgin Islands
+  - VG
 - - Virgin Islands, British
   - VG
-- - Virgin Islands, U.S.
-  - VI
+- - Wales
+  - WA
 - - Wallis and Futuna
   - WF
+- - West Bank
+  - WB
 - - Western Sahara
   - EH
 - - Yemen
